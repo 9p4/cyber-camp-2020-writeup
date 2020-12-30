@@ -7,3 +7,5 @@
 ## Solution
 
 THOUGHT PROCESS FOR SOLVING
+
+Flag: `FLAG`
