@@ -12,51 +12,51 @@ All of the solutions are just here because I couldn't figure out how to use GitH
 
 ### Binary
 
- * [BE01](/BE01)
- * [BH02](/BH02)
- * [BM01](/BM01)
+ * [BE01](BE01.md)
+ * [BH02](BH02.md)
+ * [BM01](BM01.md)
 
 ### Crypto
 
- * [CE01](/CE01)
- * [CH01](/CH01)
- * [CH02](/CH02)
- * [CM01](/CM01)
- * [CM02](/CM02)
+ * [CE01](CE01.md)
+ * [CH01](CH01.md)
+ * [CH02](CH02.md)
+ * [CM01](CM01.md)
+ * [CM02](CM02.md)
 
 ### Forensics
 
- * [FE01](/FE01)
- * [FE02](/FE02)
- * [FE03](/FE03)
- * [FE04](/FE04)
- * [FE05](/FE05)
- * [FM01](/FM01)
- * [FM02](/FM02)
+ * [FE01](FE01.md)
+ * [FE02](FE02.md)
+ * [FE03](FE03.md)
+ * [FE04](FE04.md)
+ * [FE05](FE05.md)
+ * [FM01](FM01.md)
+ * [FM02](FM02.md)
 
 ### Networking
 
- * [NE01](/NE01)
- * [NE02](/NE02)
- * [NM01](/NM01)
- * [NM02](/NM02)
+ * [NE01](NE01.md)
+ * [NE02](NE02.md)
+ * [NM01](NM01.md)
+ * [NM02](NM02.md)
 
 ### Quizzical
 
- * [M01](/M01)
- * [M02](/M02)
- * [M03](/M03)
- * [M04](/M04)
- * [M05](/M05)
+ * [M01](M01.md)
+ * [M02](M02.md)
+ * [M03](M03.md)
+ * [M04](M04.md)
+ * [M05](M05.md)
 
 ### Web
 
- * [WE01](/WE01)
- * [WE02](/WE02)
- * [WE03](/WE03)
- * [WE04](/WE04)
- * [WE05](/WE05)
- * [WE06](/WE06)
- * [WM01](/WM01)
- * [WM02](/WM02)
- * [WM03](/WM03)
+ * [WE01](WE01.md)
+ * [WE02](WE02.md)
+ * [WE03](WE03.md)
+ * [WE04](WE04.md)
+ * [WE05](WE05.md)
+ * [WE06](WE06.md)
+ * [WM01](WM01.md)
+ * [WM02](WM02.md)
+ * [WM03](WM03.md)
