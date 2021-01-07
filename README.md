@@ -6,4 +6,57 @@ This is a writeup for the [2020 SANS Institute Cyber Camp](https://www.sans.org/
 
 ## Structure of the repository
 
-In this repository, you'll find a folder with all of the writeups categorized by question category like so: `solutions/category1`, `solutions/category2`, and so on so forth. We have also included a template solution so we have some semblance of uniformity.
+All of the solutions are just here because I couldn't figure out how to use GitHub pages
+
+## Table of Contents
+
+### Binary
+
+ * [BE01](/BE01)
+ * [BH02](/BH02)
+ * [BM01](/BM01)
+
+### Crypto
+
+ * [CE01](/CE01)
+ * [CH01](/CH01)
+ * [CH02](/CH02)
+ * [CM01](/CM01)
+ * [CM02](/CM02)
+
+### Forensics
+
+ * [FE01](/FE01)
+ * [FE02](/FE02)
+ * [FE03](/FE03)
+ * [FE04](/FE04)
+ * [FE05](/FE05)
+ * [FM01](/FM01)
+ * [FM02](/FM02)
+
+### Networking
+
+ * [NE01](/NE01)
+ * [NE02](/NE02)
+ * [NM01](/NM01)
+ * [NM02](/NM02)
+
+### Quizzical
+
+ * [M01](/M01)
+ * [M02](/M02)
+ * [M03](/M03)
+ * [M04](/M04)
+ * [M05](/M05)
+
+### Web
+
+ * [WE01](/WE01)
+ * [WE02](/WE02)
+ * [WE03](/WE03)
+ * [WE04](/WE04)
+ * [WE05](/WE05)
+ * [WE06](/WE06)
+ * [WM01](/WM01)
+ * [WM02](/WM02)
+ * [WM03](/WM03)
